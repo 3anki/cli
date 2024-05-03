@@ -1,0 +1,9 @@
+{
+  "name": "3anki",
+  "version": "0.0.1",
+  "description": "The CLI for yet another Notion to Anki converter",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "imlutr"
+}
